@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: cadetblue;
+    color: white;
+    text-align: center;
+}
+
+.kelime_cizgi{
+    display: inline-block;
+    margin: 8px;
+    font-size: 80px;
+}
+
+.hak{
+    margin-top: 25px;
+    font-size: 30px;
+}
